@@ -3,3 +3,5 @@ bug3
 diff practice
 new diff
 second diff
+3
+4
