@@ -2,3 +2,4 @@ hello
 second file
  new bug 
  second bug midify
+ after fast forward merge

@@ -1,3 +1,4 @@
 lorem
 hello
 new bug first
+after fast forward merge
