@@ -2,3 +2,4 @@ lorem
 hello
 new bug first
 after fast forward merge
+bug 2 modify
