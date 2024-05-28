@@ -5,3 +5,9 @@ herd file ne
 herd file ne
  new bug
  new bug mdify 
+ after fast forward merge
+ master branch modify
+ 
+ new bug mdify 
+ bug1
+
