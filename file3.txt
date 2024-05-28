@@ -11,3 +11,5 @@ herd file ne
  new bug mdify 
  bug1
 
+bug one
+bug tow
